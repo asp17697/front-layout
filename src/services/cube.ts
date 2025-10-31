@@ -1,0 +1,1 @@
+export const getCubeData = async <T = unknown> () => {}
